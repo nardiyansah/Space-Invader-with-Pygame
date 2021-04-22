@@ -1,0 +1,31 @@
+studi kasus : tembakan di luar angkasa
+
+Objek :
+main.py
+1. Pesawat (Nardiyansah)
+   - gerak : (kanan & kiri)
+   - tembak
+   - nyawa (3 nyawa)
+
+2. Alien (Andhini & Titis)
+   - kemunculan per selang waktu 
+   - monoton (dari atas ke bawah) 
+
+3. Peluru (Latisya)
+   - dari bawah ke atas
+
+Fitur tambahan :
+- Scoreboard (make database)
+
+Asset
+gambar (32x32 atau 64x64):
+   - pesawat (Nardiyansah)
+   - alien (Andhini)
+   - peluru (Latisya)
+   - background (Titis)
+
+musik (format wav):
+   - background (Titis)
+   - menang, game over (Nardiyansah)
+   - waktu nembak (Latisya)
+   - alien hancur (Titis)
