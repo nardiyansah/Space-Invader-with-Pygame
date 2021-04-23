@@ -11,3 +11,7 @@
 ## Reference
 ---
 [Tutorial making game space invader from freecodecamp.org](https://www.youtube.com/watch?v=FfWpgLFMI7w)
+
+## Resource untuk Assets
+---
+[Flaticon.com](https://www.flaticon.com/)
