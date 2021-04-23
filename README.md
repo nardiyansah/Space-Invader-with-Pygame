@@ -15,3 +15,4 @@
 ## Resource untuk Assets
 ---
 [Flaticon.com](https://www.flaticon.com/)
+[freesound.org](https://freesound.org/)
