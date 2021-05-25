@@ -1,5 +1,6 @@
 import pygame
 
+
 class Bullet:
 	movementSpeed = 3.2
 	bullet_images = ['./assets/bullet_1.png', './assets/bullet_2.png', './assets/bullet_3.png']

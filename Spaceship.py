@@ -50,4 +50,3 @@ class Spaceship:
 
 	def lose_one_heart(self):
 		self.__heart -= 1
-
